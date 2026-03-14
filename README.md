@@ -26,3 +26,13 @@ bench start
 URL: http://localhost:8002
 User: Administrator
 Pass: admin
+
+
+
+# when new start 
+'''
+sudo systemctl start mariadb
+sudo systemctl start redis-server
+cd ~/frappe-bench
+bench start
+''
