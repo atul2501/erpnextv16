@@ -28,11 +28,13 @@ User: Administrator
 Pass: admin
 
 
+''' this is a fresh start from here '''
 
 # when new start 
 '''
-sudo systemctl start mariadb
-sudo systemctl start redis-server
-cd ~/frappe-bench
-bench start
-''
+## sudo systemctl start mariadb
+## sudo systemctl start redis-server
+## cd ~/frappe-bench
+## bench start
+'''
+
